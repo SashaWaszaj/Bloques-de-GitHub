@@ -1,0 +1,31 @@
+.grupo1 {
+    width: 800px;
+    height: 200px;
+    background-color: plum;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+.grupo2 {
+    width: 800px;
+    height: 200px;
+    background-color: lightblue;
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+}
+.grupo3 {
+    width: 800px;
+    height: 200px;
+    background-color: mediumaquamarine;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+h1 {
+    text-align: center;
+    color: gray;
+}
